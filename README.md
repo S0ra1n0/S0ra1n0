@@ -1,6 +1,6 @@
 ## Welcome to my github profile 👋
 
-My name is Khoa and my nickname is Sorai/Soraino.
+My name is Khoa and my nickname is Sorai.
 
 I'm currently an IT student majoring Software Engineering at University of Management and technology Ho Chi Minh City.
 
