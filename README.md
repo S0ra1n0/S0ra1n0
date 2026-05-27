@@ -7,10 +7,10 @@ I'm currently an IT student majoring Software Engineering at University of Manag
 Currently working on: personal and academic projects. Still trying learn new techs and tools to create my own coding style.
 
 I am quite a big fan of competitive programming, the practice platforms I have been learning on are:
-- Codeforces <a href="https://codeforces.com" style="vertical-align: middle;"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209721/codeforces_uihcvf.png" width="36" height="36" alt="CSS3" /></a> 
-- VNOI <a href="https://oj.vnoi.info" style="vertical-align: middle"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209522/vnoi_q29hrz.png" width="36" height="36" alt="HTML5" /></a>
-- CSES <a href="https://cses.fi" style="vertical-align: middle;"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713868783/images_r2n5da.png" width="36" height="36" alt="CSS3" /></a>
-- HackerRank <a href="https://www.hackerrank.com" style="vertical-align: middle;"><img src="[https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713868783/images_r2n5da.png](https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png)" width="36" height="36" alt="CSS3" /></a>
+- Codeforces <a href="https://codeforces.com" style="vertical-align: middle;"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209721/codeforces_uihcvf.png" width="36" height="36" alt="Icon" /></a> 
+- VNOI <a href="https://oj.vnoi.info" style="vertical-align: middle"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713209522/vnoi_q29hrz.png" width="36" height="36" alt="Icon" /></a>
+- CSES <a href="https://cses.fi" style="vertical-align: middle;"><img src="https://res.cloudinary.com/dx0gvwmdr/image/upload/v1713868783/images_r2n5da.png" width="36" height="36" alt="Icon" /></a>
+- HackerRank <a href="https://www.hackerrank.com" style="vertical-align: middle;"><img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="36" height="36" alt="Icon" /></a>
 
 Some fun facts about me:
 
